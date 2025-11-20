@@ -147,7 +147,7 @@
 	<ResearchProjectDef ParentName="SNS_Research_Base_GenI">
 		<defName>SNS_Research_II_hydroponics</defName>
 		<label>Cosmic Hydroponics</label>
-		<description>Hydroponics Basins can be made significantly more efficient with the introduction of a more intensive nutrient bath with the light sprinking of Starsteel, nearly tripling the effectiveness of Hydroponics-based technology.</description>
+		<description>Hydroponic basins can be made significantly more efficient with the introduction of a more intensive nutrient bath with a light sprinkling of Starsteel, nearly tripling the effectiveness of hydroponics-based technology.</description>
 		<baseCost>15000</baseCost>
 		<techLevel>Ultra</techLevel>
 		<prerequisites>
