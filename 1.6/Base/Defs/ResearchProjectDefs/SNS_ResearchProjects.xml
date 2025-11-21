@@ -656,7 +656,7 @@
 	<ResearchProjectDef ParentName="SNS_Research_Base_GenIII">
 		<defName>SNS_Research_VI_final</defName>
 		<label>Unto The Zenith</label>
-		<description>Let's race past this horizon, and rest upon a whole new one.</description>
+		<description>Let's race past the horizon, and rest upon a whole new one.</description>
 		<baseCost>250000</baseCost>
 		<techLevel>Archotech</techLevel>
 		<prerequisites>
@@ -680,7 +680,7 @@
 	<ResearchProjectDef ParentName="SNS_Research_Base">
 		<defName>SNS_Research_VII</defName>
 		<label>Pinnacle Of Creation</label>
-		<description>We are the pinnacle of creation. The Zenith of all, the tower atop the eternal, endless sea. We reached up to the stars and the skies, and grasped onto the vast horizons. We finally, at last know the truth: We are the undisputed masters of all reality, atop the Zenith, beyond all perception. Such great privilage.</description>
+		<description>We are the pinnacle of creation. The Zenith of all, the tower atop the eternal, endless sea. We reached up to the stars and the skies, and grasped onto the vast horizons. We finally, at last know the truth: We are the undisputed masters of all reality, atop the Zenith, beyond all perception. Such great power...</description>
 		<baseCost>5000000</baseCost>
 		<techLevel>Archotech</techLevel>
 		<requiredResearchFacilities>
