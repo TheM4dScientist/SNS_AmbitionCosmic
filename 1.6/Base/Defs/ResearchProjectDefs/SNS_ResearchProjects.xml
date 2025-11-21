@@ -434,6 +434,7 @@
 		<techLevel>Archotech</techLevel>
 		<prerequisites>
 			<li>SNS_Research_IV</li>
+			<li>SNS_Research_III_weaponry</li>
 		</prerequisites>
 		<researchViewX>28</researchViewX>
 		<researchViewY>2.65</researchViewY>
