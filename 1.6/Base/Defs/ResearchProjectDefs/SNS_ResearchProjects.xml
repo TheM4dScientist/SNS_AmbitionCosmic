@@ -445,7 +445,7 @@
 	<ResearchProjectDef ParentName="SNS_Research_Base_GenII">
 		<defName>SNS_Research_V</defName>
 		<label>The Great Unknown</label>
-		<description>There is so much that happens in this world that we will never be able to see or understand. There are forces beyond us, forces we could never hope to understand.\n\nThis world seems to beckon us, push us towards the final goal. Fragments of something long lost, of a people long gone, scattered about unused by any others.\n\nLet us find these fragments, and ascend beyond greatness.</description>
+		<description>There is so much that happens in this world that we will never be able to see or understand. There are forces beyond us, forces we could never hope to understand.\n\nThey seem to beckon us, steer us towards the final goal. Fragments of something long lost, of a people long gone, scattered about, beyond the understanding of any others.\n\nLet us find these fragments, and ascend beyond greatness.</description>
 		<baseCost>75000</baseCost>
 		<techLevel>Archotech</techLevel>
 		<prerequisites>
@@ -473,7 +473,7 @@
 	<ResearchProjectDef ParentName="SNS_Research_Base_GenIII">
 		<defName>SNS_Research_VI_base</defName>
 		<label>Breaching The Limits</label>
-		<description>Just when we thought we had reached the limits and hit the technological ceiling, we had found yet another key to greatness. Dubbed 'Eternium', this is the ultimate material. Its properties are much alike that of Cosmic Matter, but with stability not seen anywhere else. We should be able to draw it from the Call of the Cosmos.</description>
+		<description>Just when we thought we had reached the limits and hit the technological ceiling, we had found yet another key to greatness. Dubbed 'Eternium', this is the ultimate material. Its properties are much alike that of Cosmic Matter, but with stability not seen anywhere else. We should be able to draw it with the newly designed R.I.F.T Fabricator.</description>
 		<baseCost>150000</baseCost>
 		<techLevel>Archotech</techLevel>
 		<prerequisites>
