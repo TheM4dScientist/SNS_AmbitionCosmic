@@ -171,7 +171,7 @@
         <countRange>2~3</countRange>
       </li>
       <li Class="StockGenerator_MarketValue">
-        <tradeTag>Gen1AOTCWeapon</tradeTag>
+        <tradeTag>SNSRangedTierOne</tradeTag>
         <countRange>0~2</countRange>
       </li>
       <li Class="StockGenerator_Category">
