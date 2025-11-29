@@ -307,7 +307,7 @@
 			</categories>
 			<color>(245,245,255)</color>
 			<appearance>Smooth</appearance>
-			<commonality>0.0</commonality>
+            <commonality>0.00001</commonality>
 			<constructEffect>ConstructMetal</constructEffect>
 			<statOffsets>
 				<Beauty>10</Beauty>
