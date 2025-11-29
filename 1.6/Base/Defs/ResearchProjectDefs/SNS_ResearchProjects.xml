@@ -21,6 +21,8 @@
 		</prerequisites>
 		<researchViewX>22</researchViewX>
 		<researchViewY>2.2</researchViewY>
+		<discoveredLetterTitle>Stellar Ambitions</discoveredLetterTitle>
+        <discoveredLetterText>Your colony has laid the groundwork for the research and development of basic Cosmic Matter-powered technologies. However, in order to progress further, you will need a Stellar Analyzer.\n\nThis building requires a small amount of Starsteel to construct, which can be aquired either through trade with advanced factions or looted from their members and settlements.</discoveredLetterText>
 	</ResearchProjectDef>
 
 	<!-- Generation 1 -->
